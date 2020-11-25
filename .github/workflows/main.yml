@@ -1,7 +1,7 @@
 listtodo_react.surge.sh
 
 
-name: React_app_deploy
+name: React_todo-list_deploy
 
 on:
   push:
